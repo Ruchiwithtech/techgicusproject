@@ -1,2 +1,1 @@
-# techgicusproject
-hfsavhjvv
+This is my first project
